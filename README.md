@@ -33,16 +33,6 @@ This project predicts customer churn using Machine Learning and analyzes busines
 * Estimated potential revenue loss
 * Suggested churn reduction strategies
 
-## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
 
-## 📁 Project Structure
 
-(Explain folders briefly)
-
-## 🚀 How to Run
-
-1. Open notebooks
-2. Run preprocessing and modeling
-3. Open Power BI dashboard (.pbix)
